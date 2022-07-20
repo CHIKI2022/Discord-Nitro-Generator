@@ -1,0 +1,12 @@
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\bin\Debug\Nitro Gen.exe.config
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\bin\Debug\Nitro Gen.exe
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\bin\Debug\Nitro Gen.pdb
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\bin\Debug\Discord.REQ.dll
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\obj\Debug\Nitro Gen.csproj.AssemblyReference.cache
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\obj\Debug\Nitro Gen.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\obj\Debug\Nitro Gen.csproj.CoreCompileInputs.cache
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\obj\Debug\Nitro Gen.csproj.CopyComplete
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\obj\Debug\Nitro Gen.exe
+C:\Users\CHIKI\source\repos\Nitro Gen\Nitro Gen\obj\Debug\Nitro Gen.pdb
